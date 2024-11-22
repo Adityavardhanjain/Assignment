@@ -47,8 +47,8 @@ curl -X POST -H "Content-Type: application/json" \
 ## Confusion Matrix
 |                    | Predicted Defaulted | Predicted Repaid |
 |--------------------|-------------------:|------------------:|
-| **Actual Defaulted** |                  3 |               16 |
-| **Actual Repaid**    |                  1 |               30 |
+| **Actual Defaulted** |                  31 |               6 |
+| **Actual Repaid**    |                  13 |               30 |
 
 ## Feature Importance
 1. Application Timestamp
